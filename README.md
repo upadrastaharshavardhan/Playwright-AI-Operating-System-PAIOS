@@ -1,5 +1,5 @@
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/04862f89-60cb-45af-8da5-ab829b755a26" />
+<!-- <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/04862f89-60cb-45af-8da5-ab829b755a26" /> -->
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dc86ca2d-dfb0-43cc-9256-52bea0a8b209" />
 
 # Playwright AI Operating System (PAIOS)
