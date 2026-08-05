@@ -63,7 +63,7 @@ It is **engineering intelligence**.
 
 ---
 
-# Our Vision
+# My Vision
 
 PAIOS is not another Playwright framework.
 
