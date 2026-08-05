@@ -1,4 +1,5 @@
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/04862f89-60cb-45af-8da5-ab829b755a26" />
 
 # Playwright AI Operating System (PAIOS)
 
