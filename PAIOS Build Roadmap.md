@@ -5,6 +5,7 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 
 ---
 
+
 ## Phase 0 — Foundation (mostly done)
 **Goal:** A working single-user test generation engine.
 
@@ -19,7 +20,7 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 **Exit criterion:** A user can upload a test pack, pick a template, and download generated Playwright tests through a UI — no manual file editing required.
 
 ---
-
+<img width="1536" height="1024" alt="ChatGPT Image Aug 6, 2026, 05_56_25 PM" src="https://github.com/user-attachments/assets/10865e0e-89a8-48fd-b64e-3b509e756102" />
 ## Phase 1 — Single-Agent MVP: Natural Language QA Assistant
 **Goal:** Replace "generate from template" with "generate from intent."
 
