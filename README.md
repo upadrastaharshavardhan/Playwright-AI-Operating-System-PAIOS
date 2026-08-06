@@ -1,6 +1,8 @@
 
 <!-- <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/04862f89-60cb-45af-8da5-ab829b755a26" /> -->
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dc86ca2d-dfb0-43cc-9256-52bea0a8b209" />
+<img width="1587" height="656" alt="Gemini_Generated_Image_ow8bzoow8bzoow8b-clean" src="https://github.com/user-attachments/assets/2c45e11f-a2ba-47e2-bb27-b00db5ee72c5" />
+
+
 
 # Playwright AI Operating System (PAIOS)
 
@@ -246,3 +248,5 @@ This project is an invitation to imagine—and build—that future.
 **From Test Execution to Engineering Intelligence.**
 
 **From Frameworks to an AI Operating System for Quality Engineering.**
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dc86ca2d-dfb0-43cc-9256-52bea0a8b209" />
