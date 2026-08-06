@@ -4,6 +4,7 @@
 This roadmap turns the PAIOS vision into buildable phases, sequenced so each phase ships something usable and feeds data/context into the next. It assumes your current backend (Python/TypeScript test generation, Excel/CSV test pack parsing, template system, bulk test case engine, zip packaging) as the foundation — Phase 0.
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d7454460-bc44-4668-acd5-6da25fea7343" />
 
 
 ## Phase 0 — Foundation (mostly done)
@@ -34,6 +35,8 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 **Exit criterion:** User types "test the login page with valid/invalid credentials" and gets runnable, executed Playwright tests back.
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/64d38d4e-89c2-4298-a88f-4ff77c07eb53" />
+
 
 ## Phase 2 — Self-Healing + Root Cause Basics
 **Goal:** Reduce the maintenance burden, which is where most QA time actually goes.
