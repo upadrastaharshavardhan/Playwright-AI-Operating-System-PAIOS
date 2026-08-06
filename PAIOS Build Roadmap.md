@@ -19,6 +19,7 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 **Exit criterion:** A user can upload a test pack, pick a template, and download generated Playwright tests through a UI — no manual file editing required.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d7454460-bc44-4668-acd5-6da25fea7343" />
+
 ---
 
 
@@ -34,6 +35,7 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 **Exit criterion:** User types "test the login page with valid/invalid credentials" and gets runnable, executed Playwright tests back.
 
 <img width="1536" height="1024" alt="ChatGPT Image Aug 6, 2026, 05_56_25 PM" src="https://github.com/user-attachments/assets/10865e0e-89a8-48fd-b64e-3b509e756102" />
+
 ---
 
 
@@ -48,6 +50,7 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 **Exit criterion:** A broken locator is auto-suggested a fix and a human just approves/rejects instead of debugging from scratch.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/64d38d4e-89c2-4298-a88f-4ff77c07eb53" />
+
 ---
 
 
@@ -64,6 +67,7 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 **Exit criterion:** You can answer 3-4 of the vision doc's example questions with real data, even if manually queried.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a429a299-55f0-4850-8b57-92796f6b4470" />
+
 ---
 
 
@@ -77,6 +81,7 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 **Exit criterion:** A PR triggers a prioritized subset of tests instead of the full suite, with a visible risk score.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ead32450-b433-4b09-a1e1-d8be3d3d1a93" />
+
 ---
 
 
@@ -91,6 +96,7 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 **Exit criterion:** One request ("validate this release") triggers requirement check → test selection → execution → accessibility scan → risk report, coordinated automatically.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7e0a84a0-a141-4dc5-89a6-3ae3ab2278cb" />
+
 ---
 
 
@@ -102,7 +108,8 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 
 **Exit criterion:** Visual regressions and basic security issues surface in the same release report as functional test results.
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a54f3c22-d457-4408-a62e-f3f0740dda2c" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a54f3c22-d457-4408-a62e-f3f0740dda2c" />\
+
 ---
 
 
@@ -117,6 +124,7 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 **Exit criterion:** You can point to a metric that measurably improved release-over-release without manual tuning.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/acd827e3-7a86-4612-b458-1f35ec963e9a" />
+
 ---
 
 ## Sequencing principles (why this order)
