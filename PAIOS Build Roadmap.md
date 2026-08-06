@@ -48,6 +48,8 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 **Exit criterion:** A broken locator is auto-suggested a fix and a human just approves/rejects instead of debugging from scratch.
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a429a299-55f0-4850-8b57-92796f6b4470" />
+
 
 ## Phase 3 — Knowledge Graph (the real differentiator)
 **Goal:** Turn requirements, tests, code changes, and failures into connected, queryable knowledge.
@@ -61,6 +63,7 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 **Exit criterion:** You can answer 3-4 of the vision doc's example questions with real data, even if manually queried.
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ead32450-b433-4b09-a1e1-d8be3d3d1a93" />
 
 ## Phase 4 — Predictive & Prioritization Agents
 **Goal:** Move from "run everything" to "run what matters."
@@ -72,6 +75,8 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 **Exit criterion:** A PR triggers a prioritized subset of tests instead of the full suite, with a visible risk score.
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7e0a84a0-a141-4dc5-89a6-3ae3ab2278cb" />
+
 
 ## Phase 5 — Multi-Agent Orchestration
 **Goal:** Agents stop being separate scripts and start collaborating with shared context.
@@ -83,6 +88,7 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 **Exit criterion:** One request ("validate this release") triggers requirement check → test selection → execution → accessibility scan → risk report, coordinated automatically.
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a54f3c22-d457-4408-a62e-f3f0740dda2c" />
 
 ## Phase 6 — Vision-Based UI Agent + Security Analyzer
 **Goal:** Extend beyond DOM-based testing.
@@ -93,6 +99,7 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 **Exit criterion:** Visual regressions and basic security issues surface in the same release report as functional test results.
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/acd827e3-7a86-4612-b458-1f35ec963e9a" />
 
 ## Phase 7 — Continuous Learning Loop
 **Goal:** Make the "the more it's used, the smarter it becomes" claim real.
@@ -115,7 +122,4 @@ This roadmap turns the PAIOS vision into buildable phases, sequenced so each pha
 
 ---
 
-## Immediate next actions (this week)
-1. Finish `moduleFieldMap` wiring in `testCaseEngine.js`.
-2. Build the four missing frontend pieces: language toggle, Templates tab, Test Pack upload panel, Test Cases table.
-3. Once frontend is stable, start Phase 1's Requirement Intelligence Agent — this is the smallest change with the biggest perceived leap (template-driven → intent-driven).
+
