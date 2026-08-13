@@ -8,11 +8,47 @@
 
 ### *From Test Automation to Autonomous Quality Engineering*
 
+---
+PAIOS dashboard
+<img width="1364" height="647" alt="image" src="https://github.com/user-attachments/assets/0bf2f0e4-e39d-4268-9e93-9150ccee3c54" />
 
+---
+<img width="1366" height="649" alt="image" src="https://github.com/user-attachments/assets/dd6d51d1-3874-48d3-a9ef-8e202c415e89" />
+
+---
+PAIOS agents
+<img width="1366" height="648" alt="image" src="https://github.com/user-attachments/assets/5111914d-7877-43bd-abc6-122273883ce7" />
+
+---
+PAIOS Knowledge Graph
+<img width="1362" height="620" alt="image" src="https://github.com/user-attachments/assets/9aa099a8-f1be-4d37-a4bb-c9137602e731" />
+
+---
+PAIOS execution
+<img width="1363" height="643" alt="image" src="https://github.com/user-attachments/assets/6aed36fb-fd95-4bd0-9e2c-d8056c5d17ba" />
+
+---
+PAIOS releases
+<img width="1359" height="646" alt="image" src="https://github.com/user-attachments/assets/c345de31-4314-4862-b37c-8db6c5bde315" />
+
+---
+PAIOS workflows
+<img width="1365" height="645" alt="image" src="https://github.com/user-attachments/assets/a802adc0-e651-4630-b410-af1abb5fec63" />
+
+---
+PAIOS templates
+<img width="1365" height="646" alt="image" src="https://github.com/user-attachments/assets/0759be2c-1ee0-473e-ae05-87b37d4eb551" />
+
+---
+PAIOS testpacks
+<img width="1349" height="648" alt="image" src="https://github.com/user-attachments/assets/cab3312e-2f9c-4c03-8101-e68a2cf3bcf8" />
+
+---
+PAIOS settings
+<img width="1365" height="636" alt="image" src="https://github.com/user-attachments/assets/b4313525-5462-4404-a2a9-8970610e3a46" />
 
 
 ---
-
 # 📚 Documentation Index
 
 Welcome to **Playwright AI Operating System (PAIOS)**.
