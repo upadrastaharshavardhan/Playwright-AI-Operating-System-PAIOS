@@ -38,6 +38,57 @@ Instead of simply executing Playwright tests, PAIOS understands software, reason
 | [🧠 Core Philosophy](#-the-core-philosophy) | Engineering Intelligence over Automation |
 
 ---
+## Documentation Map
+
+| Section | Description |
+|---|---|
+| [00 · Introduction](docs/00-introduction/README.md) | What PAIOS is, why it exists, its philosophy and vision |
+| [01 · Architecture](docs/01-architecture/README.md) | System, logical, physical, and distributed architecture |
+| [02 · Kernel](docs/02-kernel/README.md) | The PAIOS kernel: scheduler, runtime, state machine, execution engine |
+| [03 · AI Runtime](docs/03-ai-runtime/README.md) | Agent runtime, planning, reasoning, reflection, LLM routing |
+| [04 · Agent Framework](docs/04-agent-framework/README.md) | The multi-agent organizational hierarchy |
+| [05 · Memory Engine](docs/05-memory-engine/README.md) | Engineering memory: tests, requirements, failures, releases |
+| [06 · Knowledge Graph](docs/06-knowledge-graph/README.md) | Entity/relationship modeling of the engineering domain |
+| [07 · Semantic Search](docs/07-semantic-search/README.md) | Embeddings, vector search, RAG, retrieval |
+| [08 · Browser Intelligence](docs/08-browser-intelligence/README.md) | DOM, visual, network, and performance intelligence |
+| [09 · Playwright Engine](docs/09-playwright-engine/README.md) | The execution layer built on Playwright |
+| [10 · UI Intelligence](docs/10-ui-intelligence/README.md) | Computer vision, OCR, visual regression |
+| [11 · API Intelligence](docs/11-api-intelligence/README.md) | REST, GraphQL, gRPC, contract testing |
+| [12 · Release Intelligence](docs/12-release-intelligence/README.md) | Release readiness, risk analysis, go/no-go |
+| [13 · Workflow Engine](docs/13-workflow-engine/README.md) | DSL-driven workflow orchestration |
+| [14 · Observability](docs/14-observability/README.md) | Logging, metrics, tracing, dashboards |
+| [15 · Enterprise](docs/15-enterprise/README.md) | Integrations: Azure DevOps, GitHub, Jira, Slack, K8s, etc. |
+| [16 · Plugin SDK](docs/16-plugin-sdk/README.md) | Extending PAIOS with plugins |
+| [17 · Security](docs/17-security/README.md) | AuthN/AuthZ, RBAC, audit, secrets |
+| [18 · Marketplace](docs/18-marketplace/README.md) | Agents, plugins, templates, connectors |
+| [19 · Research](docs/19-research/README.md) | Research direction and open problems |
+
+## Quick Links
+
+- [Architecture Overview](ARCHITECTURE.md)
+- [Product Vision](VISION.md)
+- [Roadmap](ROADMAP.md)
+- [Contributing Guide](CONTRIBUTING.md)
+- [Security Policy](SECURITY.md)
+
+## Navigation
+
+Start with [`docs/00-introduction/README.md`](docs/00-introduction/README.md) if you are new to PAIOS. Engineers implementing or extending the system should proceed to [`docs/01-architecture/README.md`](docs/01-architecture/README.md) and then the relevant subsystem section. Enterprise adopters should read [`docs/15-enterprise/README.md`](docs/15-enterprise/README.md) and [`docs/17-security/README.md`](docs/17-security/README.md).
+
+## References
+
+- [ARCHITECTURE.md](ARCHITECTURE.md) — condensed architectural summary
+- [VISION.md](VISION.md) — long-term product direction
+- [whitepapers/](whitepapers/) — deep research documents
+- [case-studies/](case-studies/) — enterprise adoption stories
+
+---
+
+*This documentation is maintained as a living specification. See [CHANGELOG.md](CHANGELOG.md) for revision history.*
+
+
+
+---
 
 # 🏛 Platform Architecture
 
